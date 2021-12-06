@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@codait/max-vis": "^0.3.0",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs-node": "^3.11.0"
+  },
+  "name": "ai-manuels-anciens",
+  "description": "This directory contains source code for exercises from the [Introduction to AI in Node.js](https://developer.ibm.com/tutorials/an-introduction-to-ai-in-nodejs/) tutorial.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/ai-manuels-anciens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/ai-manuels-anciens/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/ai-manuels-anciens#readme"
+}
